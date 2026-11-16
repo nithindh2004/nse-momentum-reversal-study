@@ -1,0 +1,7 @@
+strategy,measure,regime,days,ann_mean,t_NW,Sharpe
+MOM_12_1 (VIX regimes),LS gross,LOW,2554,0.2196,3.5918,1.2721
+MOM_12_1 (VIX regimes),LS gross,MID,1068,-0.0899,-0.7784,-0.4168
+MOM_12_1 (VIX regimes),LS gross,HIGH,491,-0.3133,-1.4092,-1.0814
+REV_1M (VIX regimes),LS gross,LOW,2554,-0.0632,-1.2273,-0.4046
+REV_1M (VIX regimes),LS gross,MID,1068,0.2041,2.1145,1.1032
+REV_1M (VIX regimes),LS gross,HIGH,491,0.2914,1.7993,1.1741

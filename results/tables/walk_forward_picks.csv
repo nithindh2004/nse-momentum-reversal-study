@@ -1,0 +1,15 @@
+year,pick,trailing_IR_daily
+2013,MOM lb=252 skip=0 q=0.3,1.0911
+2014,MOM lb=252 skip=0 q=0.3,1.0013
+2015,MOM lb=252 skip=0 q=0.1,0.8176
+2016,MOM lb=252 skip=0 q=0.1,1.0181
+2017,MOM lb=252 skip=0 q=0.1,0.8257
+2018,MOM lb=252 skip=21 q=0.2,0.7137
+2019,MOM lb=252 skip=21 q=0.2,0.7421
+2020,MOM lb=252 skip=21 q=0.2,0.7332
+2021,MOM lb=252 skip=0 q=0.1,0.5318
+2022,MOM lb=252 skip=0 q=0.1,0.5353
+2023,MOM lb=252 skip=0 q=0.1,0.5169
+2024,MOM lb=252 skip=0 q=0.1,0.6453
+2025,MOM lb=252 skip=0 q=0.1,0.7340
+2026,MOM lb=252 skip=0 q=0.1,0.6840

@@ -1,0 +1,9 @@
+# Corporate actions that cannot be inferred from prices alone.
+# Each row was verified against public sources (exchange filings / financial press) before inclusion.
+# date = first ex-date trading session. The event-day total return is neutralised (see data.py, rule 3).
+symbol,date,action,note,source
+JSL,2015-11-19,demerger,"Jindal Stainless: ferro-alloy & mining demerged into Jindal Stainless (Hisar), 1:1, record date 21-Nov-2015",https://www.business-standard.com/article/news-cm/jindal-stainless-fixes-record-date-115111300727_1.html
+ABREL,2019-10-11,demerger,"Century Textiles (now ABREL): cement business demerged into UltraTech, 1 UltraTech share per 8 held, ex-date 11-Oct-2019",https://www.business-standard.com/article/news-cm/century-textiles-corrects-ahead-of-ex-date-for-de-merger-119101000427_1.html
+TMPV,2025-10-14,demerger,"Tata Motors: CV business demerged into TMLCV 1:1, record date 14-Oct-2025",https://www.angelone.in/news/market-updates/tata-motors-demerger-what-it-means-for-pv-shareholders-and-tml-commercial-vehicles-limited-share-price
+VEDL,2026-04-30,demerger,"Vedanta: four businesses demerged 1:1 each, ex-date 30-Apr-2026 (record date 1-May-2026 was a holiday)",https://support.zerodha.com/category/console/corporate-actions/ca-others/articles/vedanta-demergers
+HEGAM,2026-09-07,demerger,"HEG: graphite electrode business demerged into HEG Graphite 1:1, record date 7-Sep-2026",https://www.kotakneo.com/news/stocks/heg-demerger-record-date-7-september-2026/

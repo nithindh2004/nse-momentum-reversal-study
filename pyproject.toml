@@ -1,0 +1,8 @@
+[project]
+name = "nsequant"
+version = "1.0.0"
+description = "Regime-aware, bias-audited study of momentum and reversal in NSE large caps"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

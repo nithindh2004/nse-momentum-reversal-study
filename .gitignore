@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Market data is re-downloadable and Yahoo data should not be redistributed
+data/raw/
+data/processed/
+results/cache.pkl
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/

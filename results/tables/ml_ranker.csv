@@ -1,0 +1,4 @@
+model,mean_rank_IC,IC_years_positive,CAGR,Vol,Sharpe,Sharpe_gross,Sortino,MaxDD,ProfitFactor,HitRate_m,t_NW,Turnover_ann,CostDrag_ann,Active_ret,IR,t_active_NW,Breakeven_bps_oneway
+ridge,0.0343,9/14,0.1237,0.1716,0.4268,0.5770,0.5762,-0.3566,1.7860,0.6265,1.5493,6.0645,0.0259,-0.0160,-0.1836,-0.6454,8.1082
+gbm,0.0379,11/14,0.1339,0.1853,0.4572,0.6227,0.6176,-0.3710,1.7715,0.5964,1.6698,7.2284,0.0308,-0.0045,-0.0569,-0.2031,18.1746
+"MOM_12_1 (single signal, same period)",,,0.1742,0.2317,0.5588,0.6191,0.7538,-0.4155,1.8381,0.6048,2.0790,3.2894,0.0141,0.0406,0.3840,1.3424,83.2084

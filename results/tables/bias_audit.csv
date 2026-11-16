@@ -1,0 +1,9 @@
+variant,LO_CAGR,LO_Sharpe,LO_active_vs_clean_EW,LS_Sharpe,LO_Sharpe_inflation,LS_Sharpe_inflation
+1. Clean baseline,0.1711,0.5577,0.0476,0.2217,0.0000,0.0000
+2. Same-close execution (lag 0),0.1788,0.5870,0.0544,0.2843,0.0293,0.0626
+3. Off-by-one look-ahead (signal uses t+1),0.1856,0.6116,0.0603,0.3243,0.0539,0.1026
+4. Survivorship: today's NIFTY 100 as universe,0.2559,0.9623,0.1117,0.0478,0.4046,-0.1738
+5. No transaction costs,0.1882,0.6222,0.0622,0.3747,0.0645,0.1531
+6. In-sample best parameters,0.2288,0.7184,0.1017,0.3279,0.1607,0.1062
+7. Uncleaned vendor data,0.1647,0.5326,0.0423,0.1791,-0.0251,-0.0426
+8. All of 3-6 combined,0.3760,1.2931,0.2083,0.4235,0.7355,0.2018
